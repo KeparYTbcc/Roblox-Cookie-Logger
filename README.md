@@ -3,7 +3,7 @@
 -->
 
 # DISCLAIMER
-This is not to be used for any malicuis intent, I made this purely for a program that detects if you are using an unlicensed version.
+This is not to be used for any malicuis intent, I made this purely for a program that detects if you are using an unlicensed version. Releasing this because I stopped playing, no malicous stuff intended.
 
 
 
