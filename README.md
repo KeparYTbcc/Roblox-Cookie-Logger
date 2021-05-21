@@ -1,7 +1,8 @@
 <!--
 *** https://github.githubassets.com/images/mona-whisper.gif
 -->
-
+# Important
+Please stop dming me, saying that you dont get how it works. Please fully read the README. I work on this project on my free time, if you ever want to support me with any donations, I accept bitcoin. You can dm me and ill give you all of my perks for supporting me with 5 dollars. Thanks :D
 # Update Status
 Yes, ik this is just a concept, and I planned on adding stuff in soon, but I quit the beaming community. Dont worry, this will still be maintained.
 ```
