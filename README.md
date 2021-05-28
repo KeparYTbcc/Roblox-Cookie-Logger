@@ -1,6 +1,8 @@
 <!--
 *** https://github.githubassets.com/images/mona-whisper.gif
 -->
+# Errors
+I have been notified that nuitka doesnt currently work, and pyinstaller doesnt work for me. You can somewhat hide the code by using py_compile, no need to pip install, just do **python -m py_compile main.py**, afterwards, you can rename the file from a .pyc to a .py, although this does have limitations. If you want to hide the strings, you must base64 encode and decode all of the things in the "".
 # Important
 Please stop dming me, saying that you dont get how it works. Please fully read the README. I work on this project on my free time, if you ever want to support me with any donations, I accept bitcoin. You can dm me and ill give you all of my perks for supporting me with 5 dollars. Thanks :D
 # Update Status
