@@ -1,23 +1,13 @@
 <!--
 *** https://github.githubassets.com/images/mona-whisper.gif
 -->
+screw off skid
 # Errors
-I have been notified that nuitka doesnt currently work, and pyinstaller doesnt work for me. You can somewhat hide the code by using py_compile, no need to pip install, just do **python -m py_compile main.py**, afterwards, you can rename the file from a .pyc to a .py, although this does have limitations. If you want to hide the strings, you must base64 encode and decode all of the things in the "".
+I have been notified that nuitka doesnt currently work, and pyinstaller doesnt work for me. You can somewhat hide the code by using py_compile, no need to pip install, just do **python -m py_compile main.py**, afterwards, you can rename the file from a .pyc to a .py, although this does have limitations. If you want to hide the strings, you must base64 encode and decode all of the things in the "". OR (get ready the fix) go learn c or c++ and make it yourself like a true chad.
 # Important
 Please stop dming me, saying that you dont get how it works. Please fully read the README. I work on this project on my free time, if you ever want to support me with any donations, I accept bitcoin. You can dm me and ill give you all of my perks for supporting me with 5 dollars. Thanks :D
 # Update Status
-Yes, ik this is just a concept, and I planned on adding stuff in soon, but I quit the beaming community. Dont worry, this will still be maintained.
-```
-To Do:
-> Add better code
-> Better embeds and more info
-> Full Recode
-> Make better looking traps
-```
-
-# DISCLAIMER
-This is not to be used for any malicuis intent, I made this purely for a program that detects if you are using an unlicensed version. Releasing this because I stopped playing, no malicous stuff intended.
-
+I will probably never update this but I will give private and better versions to people who gib mone.
 
 
 <!-- PROJECT LOGO -->
@@ -91,7 +81,7 @@ To get a local copy up and running follow these simple steps.
 This is an example of how to list things you need to use the software and how to install them.
   ```
   - Go to the folder with all of the files.
-  - In the navigation bar (C:/User/Desktop/Roblox-Cookie-Logger) delete everything and type cmd, this will bring up "the shell".
+  - In the navigation bar (C:/Users/%user%/Desktop/Roblox-Cookie-Logger) delete everything and type cmd, this will bring up "the shell".
   - Now install the packages as instructed.
   ```
 
